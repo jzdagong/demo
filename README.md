@@ -1,2 +1,3 @@
 # demo
-![personal portfolio demo](https://github.com/jzdagong/demo/blob/main/Portfolio.pdf)
+[查看PDF文档](view-pdf.html)
+
